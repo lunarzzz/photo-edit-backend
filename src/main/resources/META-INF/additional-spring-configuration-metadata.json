@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "voice.domain",
+      "type": "java.lang.String",
+      "description": "Description for voice.domain."
+  }
+] }
